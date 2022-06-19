@@ -1,1 +1,1 @@
-Aplikasi Penerimaan Pegawai menggunakan Sistem pengambilan keputusan dengan metode profile matching
+Sistem Pendukung Keputusan Seleksi Penerimaan Staff Administrasi Menggunakan Metode Profile Matching
