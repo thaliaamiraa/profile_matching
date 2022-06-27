@@ -172,6 +172,18 @@ if( empty( $_SESSION['id_user'] ) ){
     </p>
         <p>
           Profile matching merupakan suatu proses yang sangat penting dalam manajemen SDM dimana terlebih dahulu ditentukan kompetensi (kemampuan) yang diperlukan oleh suatu jabatan. Kompetensi atau kemampuan tersebut haruslah dapat dipenuhi oleh pemegang atau calon pemegang jabatan. Dalam proses profile matching secara garis besar merupakan proses membandingkan antara kompetensi individu kedalam kompetensi jabatan sehingga dapat diketahui perbedaan kompetensinya (disebut juga Gap), semakin kecil gap yang dihasilkan maka bobot nilainya semakin besar yang berarti memiliki peluang lebih besar untuk pegawai yang menempati posisi tersebut. (Sianturi, 2015:45).
+          <br>
+          <br>
+          <h6>KELOMPOK 5 - SISTEM PENDUKUNG KEPUTUSAN</h6>
+          Oleh :<br>
+          16-Frebiyandika Dwima Putra<br>
+          20-Moch. Syifak Muchlisin<br>
+          23-Muhammad Tyone Noor Satria<br>
+          24-Thalia Amira Rifda<br>
+          26-Zhabiyan Wahyu Saputra
+          
+          
+
         </p>       
       </div>
   <?php
